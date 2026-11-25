@@ -21,6 +21,12 @@ Use this repository to recommend tasks, share ideas, and suggest corrections.
 
 The focus is individual task design and analysis. Reference agent runs illustrate concrete outcomes.
 
+## Newly added public tasks
+
+Added 23 tasks from [SciWorkBench](https://github.com/SKYEVAL-AIHub/SciWorkBench), [TxBench Antibody Development](https://github.com/latchbio/txBench-antibody-development), [TxBench Antibody Discovery](https://github.com/latchbio/txbench-antibody-discovery), [scBench](https://github.com/latchbio/scbench), and [SpatialBench](https://github.com/latchbio/spatialbench). Topics include neurite tracing, RNA mechanisms, imaging audits, structure elucidation, antibody decisions, and single-cell and spatial analysis.
+
+Each includes bilingual explanations, the original prompt, assessment details, and design takeaways. Start with [neurite tracing](https://biotask-lens.biotask-lens-app.workers.dev/#/task/swb-neurite-tracing?lang=en) or [donor-aware differential expression](https://biotask-lens.biotask-lens-app.workers.dev/#/task/scbench-pseudobulk-differential-expression?lang=en).
+
 ## Example tasks
 
 | Example | Research question | Design idea |
@@ -29,7 +35,7 @@ The focus is individual task design and analysis. Reference agent runs illustrat
 | Gene regulatory-network inference | Who regulates whom, and with which sign? | Evaluate edges, directions, signs, and topology separately. |
 | Active learning for biosensors | How can limited experiment rounds improve target response and selectivity? | Assess discovery and prediction of unmeasured variants. |
 
-The current collection contains **21 tasks** and **15 reference-run records**: 11 scored runs and 4 unscored timeouts. The reference configuration is Qwen3.8 Max + Codex CLI; each task describes its configuration and score source.
+The current collection contains **44 tasks** and **15 reference-run records**: 11 scored runs and 4 unscored timeouts. The reference configuration is Qwen3.8 Max + Codex CLI; each task describes its configuration and score source.
 
 <details>
 <summary>Example: connecting a scientific challenge to its evaluation</summary>

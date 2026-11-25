@@ -21,6 +21,12 @@ BioTask Lens 收集有代表性的科研任务，将科学问题、输入输出�
 
 内容以单道任务的设计与分析为主线，参考Agent运行帮助说明具体表现。
 
+## 新增公开题目
+
+本轮新增23道，来自 [SciWorkBench](https://github.com/SKYEVAL-AIHub/SciWorkBench)、[TxBench抗体开发](https://github.com/latchbio/txBench-antibody-development)、[TxBench抗体发现](https://github.com/latchbio/txbench-antibody-discovery)、[scBench](https://github.com/latchbio/scbench) 和 [SpatialBench](https://github.com/latchbio/spatialbench)。覆盖三维神经突追踪、RNA机制判断、成像审计、谱图结构解析、抗体研发决策，以及单细胞和空间分析。
+
+每题包含中英文导读、原始题面、评分方法与出题建议。可以从 [神经突追踪](https://biotask-lens.biotask-lens-app.workers.dev/#/task/swb-neurite-tracing) 或 [供体级差异表达](https://biotask-lens.biotask-lens-app.workers.dev/#/task/scbench-pseudobulk-differential-expression) 开始。
+
 ## 三个案例
 
 | 案例 | 科学问题 | 可以借鉴的设计 |
@@ -29,7 +35,7 @@ BioTask Lens 收集有代表性的科研任务，将科学问题、输入输出�
 | 基因调控网络推断 | 谁调控谁，是激活还是抑制？ | 将边、方向、符号及网络结构分别评价。 |
 | 生物传感器主动学习 | 怎样在有限实验轮次中提高目标响应与选择性？ | 同时评价发现质量和未测变体的预测。 |
 
-当前整理了 **21道任务**，附 **15份参考运行记录**：11份已评分、4份超时未评分。参考配置为 Qwen3.8 Max + Codex CLI；具体条件与评分来源在各题中说明。
+当前整理了 **44道任务**，附 **15份参考运行记录**：11份已评分、4份超时未评分。参考配置为 Qwen3.8 Max + Codex CLI；具体条件与评分来源在各题中说明。
 
 <details>
 <summary>查看示意情境：把科学难点与评分联系起来</summary>
