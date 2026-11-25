@@ -6,7 +6,9 @@
 
 BioTask Lens connects the scientific question, inputs and outputs, key judgments, evaluation methods, and reference responses of representative biomedical research tasks. It helps researchers understand how a task is constructed and develop ideas for new evaluations.
 
-**The public website address is being prepared and will be announced here.** You can already use this repository to recommend tasks, share ideas, and suggest corrections.
+**[Visit BioTask Lens →](https://biotask-lens.biotask-lens-app.workers.dev/#/tasks?lang=en)** · [中文网站](https://biotask-lens.biotask-lens-app.workers.dev/)
+
+Use this repository to recommend tasks, share ideas, and suggest corrections.
 
 ![Library overview](assets/overview.png)
 

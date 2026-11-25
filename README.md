@@ -6,7 +6,9 @@
 
 BioTask Lens 收集有代表性的科研任务，将科学问题、输入输出、关键判断、评分方法与参考作答连起来讲，帮助研究者理解别人怎样出题，并获得设计新任务的思路。
 
-**网站公开地址正在准备，发布后会在此更新。** 目前可以通过本仓库推荐题目、交流想法或反馈内容问题。
+**[访问 BioTask Lens →](https://biotask-lens.biotask-lens-app.workers.dev/)** · [English website](https://biotask-lens.biotask-lens-app.workers.dev/#/tasks?lang=en)
+
+通过本仓库可以推荐题目、交流想法或反馈内容问题。
 
 ![题库概览](assets/overview.png)
 
