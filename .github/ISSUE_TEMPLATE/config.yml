@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 交流出题思路 / Discuss task design
+    url: https://github.com/Wu-Junqi/biotask-lens/discussions
+    about: 讨论任务构建、难度与评价方法。

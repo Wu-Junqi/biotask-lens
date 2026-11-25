@@ -1,0 +1,29 @@
+name: 提供真实科研任务 / Share a research task
+description: 从研究问题、输入和可检查的结果开始，不要求完整题包。
+title: "[Research task idea] "
+labels: [task-idea]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: 要解决什么科研问题？ / Research question
+    validations:
+      required: true
+  - type: textarea
+    id: inputs
+    attributes:
+      label: 有哪些输入材料？ / Available inputs
+      description: 描述数据类型或提供公开论文、数据、代码链接即可。
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: 期望什么结果，怎样判断完成？ / Expected output and assessment
+    validations:
+      required: true
+  - type: textarea
+    id: challenge
+    attributes:
+      label: 哪一步最容易出错？ / Difficult or failure-prone step
+      description: 可描述科学难点或实际见到的Agent失败，不要求已有测试结果。

@@ -1,0 +1,21 @@
+name: 反馈内容问题 / Suggest a correction
+description: 修正事实、翻译、任务介绍或评分解释。
+title: "[Content feedback] "
+labels: [content-feedback]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: 对应题目或页面 / Task or page
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题与修改建议 / Problem and suggested correction
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 可参考的来源 / Supporting source

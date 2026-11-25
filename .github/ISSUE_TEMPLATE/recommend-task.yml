@@ -1,0 +1,29 @@
+name: 推荐已有题目 / Recommend a task
+description: 推荐值得拆解的公开题目、论文或科研管线。
+title: "[Task recommendation] "
+labels: [task-recommendation]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 题目或项目名称 / Task or project name
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 原始链接 / Original source URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 为什么值得介绍？ / What makes it worth studying?
+      description: 数据、科学判断、难度或评分方式，写最有价值的一点即可。
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 补充说明 / Additional notes
