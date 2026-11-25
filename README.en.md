@@ -6,7 +6,7 @@
 
 BioTask Lens collects public AI agent benchmark tasks for biomedicine, drug discovery, and bioinformatics. Each task connects the scientific question, inputs and outputs, key judgments, evaluation methods, and reference responses. It helps researchers understand how biomedical agent benchmarks are constructed and develop ideas for new evaluations.
 
-**[Visit BioTask Lens →](https://biotask-lens.biotask-lens-app.workers.dev/#/tasks?lang=en)** · [中文网站](https://biotask-lens.biotask-lens-app.workers.dev/)
+**[Visit BioTask Lens →](https://biotask-lens.biotask-lens-app.workers.dev/en/)** · [中文网站](https://biotask-lens.biotask-lens-app.workers.dev/)
 
 Use this repository to recommend tasks, share ideas, and suggest corrections.
 
@@ -15,7 +15,7 @@ Use this repository to recommend tasks, share ideas, and suggest corrections.
 ## What you can learn
 
 - **Understand the task:** the research question, available materials, and required outputs.
-- **Understand the challenge:** a concrete scenario explaining the scientific judgment and its consequences.
+- **Understand the challenge:** a tempting approach, its failure mode, and a stronger scientific approach.
 - **Understand evaluation:** what is compared and where a reference response earns or loses credit.
 - **Borrow the design:** data preparation, checkable deliverables, and meaningful assessment criteria.
 
@@ -25,7 +25,7 @@ The focus is individual task design and analysis. Reference agent runs illustrat
 
 Added 23 tasks from [SciWorkBench](https://github.com/SKYEVAL-AIHub/SciWorkBench), [TxBench Antibody Development](https://github.com/latchbio/txBench-antibody-development), [TxBench Antibody Discovery](https://github.com/latchbio/txbench-antibody-discovery), [scBench](https://github.com/latchbio/scbench), and [SpatialBench](https://github.com/latchbio/spatialbench). Topics include neurite tracing, RNA mechanisms, imaging audits, structure elucidation, antibody decisions, and single-cell and spatial analysis.
 
-Each includes bilingual explanations, the original prompt, assessment details, and design takeaways. Start with [neurite tracing](https://biotask-lens.biotask-lens-app.workers.dev/#/task/swb-neurite-tracing?lang=en) or [donor-aware differential expression](https://biotask-lens.biotask-lens-app.workers.dev/#/task/scbench-pseudobulk-differential-expression?lang=en).
+All 44 tasks provide switchable, downloadable English originals and full Chinese translations. Each also includes bilingual explanations, evaluation details, an approach comparison, and a thinking question with expandable reasoning. Start with [neurite tracing](https://biotask-lens.biotask-lens-app.workers.dev/en/tasks/swb-neurite-tracing/) or [donor-aware differential expression](https://biotask-lens.biotask-lens-app.workers.dev/en/tasks/scbench-pseudobulk-differential-expression/).
 
 ## Example tasks
 
