@@ -1,10 +1,10 @@
-# BioTask Lens
+# BioTask Lens · 生物医药 Agent Benchmark 题库
 
-**生物医药科研任务解析 · Biomedical research tasks, explained.**
+**生物医药与药物发现 Agent 评测任务解析 · Biomedical & Drug Discovery Agent Benchmarks**
 
 [English](README.en.md) · [推荐题目](https://github.com/Wu-Junqi/biotask-lens/issues/new/choose) · [交流出题思路](https://github.com/Wu-Junqi/biotask-lens/discussions)
 
-BioTask Lens 收集有代表性的科研任务，将科学问题、输入输出、关键判断、评分方法与参考作答连起来讲，帮助研究者理解别人怎样出题，并获得设计新任务的思路。
+BioTask Lens 收集生物医药（biomedical）、药物发现（drug discovery）和生物信息学领域的公开 AI Agent benchmark 题目。逐题解析科学问题、输入输出、关键判断、评分方法与参考作答，帮助研究者理解别人怎样出题，并获得设计新评测任务的思路。
 
 **[访问 BioTask Lens →](https://biotask-lens.biotask-lens-app.workers.dev/)** · [English website](https://biotask-lens.biotask-lens-app.workers.dev/#/tasks?lang=en)
 

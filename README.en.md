@@ -1,10 +1,10 @@
-# BioTask Lens
+# BioTask Lens · Biomedical & Drug Discovery Agent Benchmarks
 
-**Biomedical research tasks, explained.**
+**A task library for biomedical AI agent benchmarks, drug discovery, and bioinformatics.**
 
 [中文](README.md) · [Recommend a task](https://github.com/Wu-Junqi/biotask-lens/issues/new/choose) · [Discuss task design](https://github.com/Wu-Junqi/biotask-lens/discussions)
 
-BioTask Lens connects the scientific question, inputs and outputs, key judgments, evaluation methods, and reference responses of representative biomedical research tasks. It helps researchers understand how a task is constructed and develop ideas for new evaluations.
+BioTask Lens collects public AI agent benchmark tasks for biomedicine, drug discovery, and bioinformatics. Each task connects the scientific question, inputs and outputs, key judgments, evaluation methods, and reference responses. It helps researchers understand how biomedical agent benchmarks are constructed and develop ideas for new evaluations.
 
 **[Visit BioTask Lens →](https://biotask-lens.biotask-lens-app.workers.dev/#/tasks?lang=en)** · [中文网站](https://biotask-lens.biotask-lens-app.workers.dev/)
 
