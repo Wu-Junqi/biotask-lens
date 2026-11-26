@@ -2,7 +2,7 @@
 
 **A task library for biomedical AI agent benchmarks, drug discovery, and bioinformatics.**
 
-[中文](README.md) · [Recommend a task](https://github.com/Wu-Junqi/biotask-lens/issues/new/choose) · [Discuss task design](https://github.com/Wu-Junqi/biotask-lens/discussions)
+[中文](README.md) · [Contribute / request a run](https://biotask-lens.biotask-lens-app.workers.dev/en/contribute/) · [Discuss task design](https://github.com/Wu-Junqi/biotask-lens/discussions)
 
 BioTask Lens collects public AI agent benchmark tasks for biomedicine, drug discovery, and bioinformatics. Each task connects the scientific question, inputs and outputs, key judgments, evaluation methods, and reference responses. It helps researchers understand how biomedical agent benchmarks are constructed and develop ideas for new evaluations.
 
@@ -52,6 +52,10 @@ The current collection contains **44 tasks** and **15 reference-run records**: 1
 </details>
 
 ## Contribute
+
+**Got a good task? Feed the library.** [Recommend a task or request a model–agent run →](https://biotask-lens.biotask-lens-app.workers.dev/en/contribute/)
+
+Bring a paper link, a real research task, or a model + agent framework combination you would like to see tested. We read the materials, prepare the task and assessment, then arrange runs and post progress and results to My contributions. Browsing and contributing do not require sign-in; optional GitHub sign-in lets you follow records across devices.
 
 - [Recommend a public task, paper, or workflow](https://github.com/Wu-Junqi/biotask-lens/issues/new?template=recommend-task.yml).
 - [Describe a real research task](https://github.com/Wu-Junqi/biotask-lens/issues/new?template=task-idea.yml). Start with its question, inputs, and expected result.

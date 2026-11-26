@@ -2,7 +2,7 @@
 
 **生物医药与药物发现 Agent 评测任务解析 · Biomedical & Drug Discovery Agent Benchmarks**
 
-[English](README.en.md) · [推荐题目](https://github.com/Wu-Junqi/biotask-lens/issues/new/choose) · [交流出题思路](https://github.com/Wu-Junqi/biotask-lens/discussions)
+[English](README.en.md) · [投稿 / 许愿](https://biotask-lens.biotask-lens-app.workers.dev/contribute/) · [交流出题思路](https://github.com/Wu-Junqi/biotask-lens/discussions)
 
 BioTask Lens 收集生物医药（biomedical）、药物发现（drug discovery）和生物信息学领域的公开 AI Agent benchmark 题目。逐题解析科学问题、输入输出、关键判断、评分方法与参考作答，帮助研究者理解别人怎样出题，并获得设计新评测任务的思路。
 
@@ -52,6 +52,10 @@ BioTask Lens 收集生物医药（biomedical）、药物发现（drug discovery�
 </details>
 
 ## 欢迎参与
+
+**题库还在长身体，求投喂。** [推荐一道题，或点名想测试的Agent组合 →](https://biotask-lens.biotask-lens-app.workers.dev/contribute/)
+
+一条论文链接、一道真实研究题，或者一个想看的模型＋Agent框架组合，都欢迎。我们会读材料、整理题目与评分依据，再安排试跑，把进度与结果反馈到“我的投稿”。浏览和投稿无需登录，可选GitHub登录便于跨设备查看记录。
 
 - **发现一道值得介绍的题目？** [推荐公开题目、论文或管线](https://github.com/Wu-Junqi/biotask-lens/issues/new?template=recommend-task.yml)。
 - **在研究中遇到一个有价值的Agent任务？** [提供任务梗概](https://github.com/Wu-Junqi/biotask-lens/issues/new?template=task-idea.yml)。问题、输入和预期结果先讲清楚即可。
